@@ -1,0 +1,21 @@
+nav {
+  padding: 30px 20px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.search-icon,
+.cart-icon {
+  height: 25px;
+  width: 25px;
+
+  margin-left: 0.5rem;
+  cursor: pointer;
+}
+
+.search-icon:hover,
+.cart-icon:hover {
+  color: rgb(51, 149, 182);
+}
