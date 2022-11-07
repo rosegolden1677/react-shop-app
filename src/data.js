@@ -1,6 +1,6 @@
 import React from "react";
 
-export const ballons = [
+export const balloons = [
   {
     id: 1,
     type: 'set',
