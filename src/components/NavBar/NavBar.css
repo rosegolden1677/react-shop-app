@@ -4,6 +4,8 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
+
+  /* background-color: lightblue; */
 }
 
 .search-icon,

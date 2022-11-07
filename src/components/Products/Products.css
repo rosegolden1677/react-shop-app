@@ -1,0 +1,13 @@
+.products-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  row-gap: 5rem;
+
+  padding: 130px 50px 50px 50px;
+
+  /* background-color: lightcoral; */
+}
+
+.product {
+  justify-self: center;
+}
