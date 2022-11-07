@@ -16,6 +16,7 @@ nav {
 }
 
 .search-icon:hover,
-.cart-icon:hover {
+.cart-icon:hover,
+.left h1:hover {
   color: rgb(51, 149, 182);
 }
